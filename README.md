@@ -1,7 +1,8 @@
 TinySAのデータをPC（想定ではRaspberryPi）に保存するスクリプト
 
 http://athome.kaashoek.com/tinySA/python/
-を見てTinySAのPCからの使い方を知った。コードの多くの部分はtinysa.pyに書かれているものを使っている。
+を見てTinySAのPCからの使い方を勉強して書いた。
+コードの多くの部分はtinysa.pyに書かれているものを使っている。
 
 ## Preparation
 
